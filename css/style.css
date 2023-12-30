@@ -1,0 +1,89 @@
+
+body{
+    background-color: #AAC4FF;
+}
+
+.body{
+    
+    background-color:#EEF1FF;
+    margin: 20px;
+    border:3px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px;
+    
+}
+
+.fw-bold {
+    font-weight: 700 !important;
+}
+
+.lead{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.feature{
+    background-color: #EEF1FF;
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px;
+    padding: 20px;
+
+}
+
+@media (min-width: 992px) .gap-lg-5 {
+    gap: 3rem !important;
+}
+
+.feature-icon{
+    border-radius: 20px;
+}
+
+.icon{
+    border-radius: 18px;
+}
+
+.profilepho{
+  width: 350px;
+  height: 350px;
+  border-radius: 20px; 
+border: 3px solid white
+}
+
+.aboutpho{
+    border-radius: 20px;
+  margin-left: 100px;
+
+}
+
+.container1{
+   background-color: white; 
+box-shadow: 5px 5px;
+
+}
+
+.form-floating{
+    box-shadow: 5px 5px;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+.btn{
+    background-color: #B1B2FF;
+    border: 0px ;
+    
+}
+
+.nav-link{
+  color: #655DBB;
+
+}
+
+.title{
+    color: #655DBB;
+}
+
+button a {
+    color: white;
+    text-decoration: none;
+}
